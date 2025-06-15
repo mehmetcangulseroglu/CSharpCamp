@@ -1,0 +1,8 @@
+C:\Users\MEHMET CAN\source\repos\C#Camp\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\MEHMET CAN\source\repos\C#Camp\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\MEHMET CAN\source\repos\C#Camp\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\MEHMET CAN\source\repos\C#Camp\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\MEHMET CAN\source\repos\C#Camp\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET CAN\source\repos\C#Camp\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\MEHMET CAN\source\repos\C#Camp\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
+C:\Users\MEHMET CAN\source\repos\C#Camp\01_MainSubjects\obj\Debug\01_MainSubjects.exe.config
