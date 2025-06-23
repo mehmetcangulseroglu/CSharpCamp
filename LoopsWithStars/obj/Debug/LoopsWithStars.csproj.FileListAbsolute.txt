@@ -1,0 +1,7 @@
+C:\Users\MEHMET CAN\source\repos\C#Camp\LoopsWithStars\obj\Debug\LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\MEHMET CAN\source\repos\C#Camp\LoopsWithStars\obj\Debug\LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET CAN\source\repos\C#Camp\LoopsWithStars\bin\Debug\LoopsWithStars.exe.config
+C:\Users\MEHMET CAN\source\repos\C#Camp\LoopsWithStars\bin\Debug\LoopsWithStars.exe
+C:\Users\MEHMET CAN\source\repos\C#Camp\LoopsWithStars\bin\Debug\LoopsWithStars.pdb
+C:\Users\MEHMET CAN\source\repos\C#Camp\LoopsWithStars\obj\Debug\LoopsWithStars.exe
+C:\Users\MEHMET CAN\source\repos\C#Camp\LoopsWithStars\obj\Debug\LoopsWithStars.pdb
